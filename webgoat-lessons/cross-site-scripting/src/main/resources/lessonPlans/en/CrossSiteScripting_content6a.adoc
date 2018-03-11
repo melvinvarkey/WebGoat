@@ -1,4 +1,4 @@
-== Ientify Potential for DOM-Based XSS
+== Identify Potential for DOM-Based XSS
 
 DOM-Based XSS can usually be found by looking for the route configurations in the client-side code.
 Look for a route that takes inputs that you can ID being 'reflected' to the page.
